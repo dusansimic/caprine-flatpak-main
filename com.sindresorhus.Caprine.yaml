@@ -1,4 +1,4 @@
-app-id: com.sindresorhus.CaprineMain
+app-id: com.sindresorhus.Caprine
 branch: stable
 runtime: org.freedesktop.Platform
 runtime-version: '23.08'
@@ -68,11 +68,11 @@ modules:
           - export TMPDIR
           - exec zypak-wrapper.sh /app/lib/${FLATPAK_ID}/caprine "$@"
       - type: file
-        path: com.sindresorhus.CaprineMain.desktop
+        path: com.sindresorhus.Caprine.desktop
         sha256: a12bac9467e0df817c3bd2ae0f79402e21f6d8acb569cef914e83021b17d1cf2
         size: 270
       - type: file
-        path: com.sindresorhus.CaprineMain.metainfo.xml
+        path: com.sindresorhus.Caprine.metainfo.xml
         sha256: 409bfdbe3805254698cf471b33b51955f60142c6e40eddd73cec6ba9469c8956
         size: 9984
       - generated-sources.json

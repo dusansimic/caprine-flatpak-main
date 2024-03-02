@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2021 Dušan Simić -->
 <component type="desktop">
-  <id>com.sindresorhus.CaprineMain</id>
+  <id>com.sindresorhus.Caprine</id>
   <provides>
-    <id>com.sindresorhus.CaprineMain.desktop</id>
+    <id>com.sindresorhus.Caprine.desktop</id>
   </provides>
-  <launchable type="desktop-id">com.sindresorhus.CaprineMain.desktop</launchable>
+  <launchable type="desktop-id">com.sindresorhus.Caprine.desktop</launchable>
   <name>Caprine</name>
   <developer_name>Sindre Sorhus</developer_name>
   <summary>Elegant Facebook Messenger desktop app</summary>

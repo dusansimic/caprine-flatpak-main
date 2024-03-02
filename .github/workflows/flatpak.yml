@@ -17,5 +17,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: flatpak/flatpak-github-actions/flatpak-builder@v6
         with:
-          bundle: com.sindresorhus.CaprineMain.flatpak
-          manifest-path: com.sindresorhus.CaprineMain.yaml
+          bundle: com.sindresorhus.Caprine.flatpak
+          manifest-path: com.sindresorhus.Caprine.yaml
