@@ -73,6 +73,6 @@ modules:
         size: 270
       - type: file
         path: com.sindresorhus.Caprine.metainfo.xml
-        sha256: 409bfdbe3805254698cf471b33b51955f60142c6e40eddd73cec6ba9469c8956
+        sha256: f9128629fa3d7caf8557a79db6d7121808b4e001ae2152b15acb7c54678ef9da
         size: 9984
       - generated-sources.json
